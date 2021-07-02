@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+.bg-image {
+    background-image: url(../image/carosel1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 60vh;
+}
