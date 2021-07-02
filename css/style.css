@@ -11,3 +11,10 @@
     position: relative;
     height: 60vh;
 }
+
+.hero-text {
+    color: #fff;
+    font-size: 20px;
+    line-height: 6rem;
+    margin-top: 8rem;
+}
