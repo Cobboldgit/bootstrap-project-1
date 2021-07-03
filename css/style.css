@@ -19,7 +19,31 @@
     margin-top: 8rem;
 }
 
+.navbar {
+    margin-bottom: 0px;
+}
 
+.thumbnail {
+    border: none;
+}
+
+.blog-card {
+    margin-top: 15rem;
+}
+
+.card-line {
+    margin: 0px auto;
+    margin-top: 5rem;
+    height: 1px;
+    width: 80%;
+    background-color: rgba(128, 128, 128, 0.397);
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.397);
+}
 
 /* .navbar ul li::after {
 	content: '';
