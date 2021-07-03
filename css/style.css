@@ -45,6 +45,39 @@
     background-color: rgba(128, 128, 128, 0.397);
 }
 
+.join-input {
+    width: 50%;
+    height: 5vh;
+    border: 2px solid;
+    border-radius: 3px;
+    padding-left: 25px;
+}
+
+.join-input:focus {
+    box-shadow:3px 3px 5px rgb(0, 139, 252);
+}
+
+.mail-button {
+    background: rgb(0, 138, 252);
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 3px;
+}
+
+footer .link a {
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.mail-form {
+    margin-bottom: 5rem;
+}
+
+footer {
+    padding-top: 4rem;
+    background: rgba(255, 115, 0, 0.856);
+}
 /* .navbar ul li::after {
 	content: '';
 	height: 3px;
